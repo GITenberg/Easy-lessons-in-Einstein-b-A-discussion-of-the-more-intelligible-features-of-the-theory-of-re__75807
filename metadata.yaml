@@ -1,0 +1,47 @@
+_repo: Easy-lessons-in-Einstein-b-A-discussion-of-the-more-intelligible-features-of-the-theory-of-re__75807
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Einstein, Albert
+    birthdate: 1879
+    deathdate: 1955
+    gutenberg_agent_id: '1630'
+    url: http://www.gutenberg.org/2009/agents/1630
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
+creator:
+  author:
+    agent_name: Slosson, Edwin E. (Edwin Emery)
+    aliases:
+    - Slosson, E. E. (Edwin Emery)
+    - Slosson, Edwin Emery
+    birthdate: 1865
+    deathdate: 1929
+    gutenberg_agent_id: '7172'
+    url: http://www.gutenberg.org/2009/agents/7172
+    wikipedia: https://en.wikipedia.org/wiki/Edwin_Emery_Slosson
+description: ''
+gutenberg_issued: '2025-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75807'
+  lccn: '20008295'
+language: en
+pgterms:marc904: https://archive.org/details/easylessonsinein00slosuoft/page/n5/mode/2up
+pgterms:marc905: 20220706224521slossonmsp
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Charlene Taylor, Laura Natal and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited States :$bHarcourt, Brace and Howe, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Relativity (Physics)'
+- !lcsh 'Einstein, Albert, 1879-1955'
+- !lcc 'QC'
+- GITenberg
+title: 'Easy lessons in Einstein : $b A discussion of the more intelligible features
+  of the theory of relativity'
+url: http://www.gutenberg.org/ebooks/75807
