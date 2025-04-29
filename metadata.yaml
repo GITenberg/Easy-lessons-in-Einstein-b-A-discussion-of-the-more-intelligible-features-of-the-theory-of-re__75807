@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '1630'
     url: http://www.gutenberg.org/2009/agents/1630
     wikipedia: https://en.wikipedia.org/wiki/Albert_Einstein
+covers:
+- cover_type: archival
+  image_path: 75807-h/images/cover.jpg
 creator:
   author:
     agent_name: Slosson, Edwin E. (Edwin Emery)
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7172
     wikipedia: https://en.wikipedia.org/wiki/Edwin_Emery_Slosson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75807#Easy-lessons-in-Einstein-b-A-discussion-of-the-more-intelligible-features-of-the-theory-of-re_
 gutenberg_issued: '2025-04-07'
 gutenberg_type: Text
 identifiers:
